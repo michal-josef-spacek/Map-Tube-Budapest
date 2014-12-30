@@ -1,0 +1,57 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 23f39f6caea3639b38831f0bc55281555c2ac1a5 Budapest.pm
+SHA1 e93ff912fc267be3444bdca10ac4fee40afc2598 Changes
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 fcaafd95038bf6646db3a5d280f06b5575855c06 MANIFEST
+SHA1 00409764e6abad1b09c16ea430cbdf9a0bb9fcbb META.yml
+SHA1 16ed75669a6424964537b71d6a87ad86e4b15e98 Makefile.PL
+SHA1 432829bcaa332f251a507356cd2322420e2a8e5b README
+SHA1 7c4e5b6657a0008ac5bcce4b8156f47292f2365c examples/ex1.pl
+SHA1 03a3b518b9e66366a0444a8ec3b82ee75b318f71 examples/ex2.pl
+SHA1 e2acb4c68215314e8d3672ce76052e6ae9b8d7c0 examples/ex3.pl
+SHA1 a19078497e73ef6862122a3f32c8e84b8c946fed images/ex3.png
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 a3eb6308eb9634b6399ac7db6ba409b725c922f4 share/budapest-map.xml
+SHA1 905447068279c43efe69fe6b0ba2d428691c7fe1 t/Map-Tube-Budapest/00-use.t
+SHA1 7b5536fc7f233831377863054afe7f7defa81525 t/Map-Tube-Budapest/01-version.t
+SHA1 9d60035115c5f1b4f4a32c7ae58083c1cedd8099 t/Map-Tube-Budapest/02-pod_coverage.t
+SHA1 4201b71f20703842cff4a5e377b717a7d63619cd t/Map-Tube-Budapest/03-pod.t
+SHA1 cdf92de815f85a6f0ade6b99ead22a61f687925e t/Map-Tube-Budapest/04-get_shortest_route.t
+SHA1 11b1465dd267c1b1a14d325aed57c77dcf297c4c t/Map-Tube-Budapest/05-name.t
+SHA1 4e61da2e1cc0da5813e4aea36d1a346fa9a64ab2 t/Map-Tube-Budapest/06-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUosFuAAoJEAwa+cf4dLBa6x8H/07V2LddrgZS+yQH+ukjpRM1
+35HbsSgmSNvpfu0XWWHGbNmMJmpU3mcuZS5dkLIhkaW40SIkq/xOHzuFEUft6u78
+HHnvg4Gwafzw01sOO+BFvlmRYkd2T3kRq8At6SbCie7Q50+ay5hXBEBdTqZWjpIF
+yBJHr9lOawMUtJqEP7wGAox9UkJoTMySLbRmjF2sSBIoTPcmY4D1CsQu0hHgHa1Y
+OzcX5ee4+i1jZLHZSxuT40aKmJAxinj7ifeGVL0SszPHHVjBWuI+tBHFNONcQN5k
+8coVQrSjQlnzFnt5UimFupp4Je1uiTS6wtUVpYgd3siNZJDbr5KLpH32Ys0Zz9o=
+=qx1R
+-----END PGP SIGNATURE-----

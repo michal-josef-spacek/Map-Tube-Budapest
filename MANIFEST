@@ -21,6 +21,7 @@ MANIFEST			This list of files
 META.yml
 README
 share/budapest-map.xml
+SIGNATURE
 t/Map-Tube-Budapest/00-use.t
 t/Map-Tube-Budapest/01-version.t
 t/Map-Tube-Budapest/02-pod_coverage.t
