@@ -193,6 +193,9 @@ L<namespace::clean>.
 
 =head1 SEE ALSO
 
+L<Map::Metro::Plugin::Map::Budapest>,
+L<Map::Metro::Plugin::Map::Budapest::Lines>.
+
 L<Map::Tube>,
 L<Map::Tube::GraphViz>,
 L<Map::Tube::Text::Table>,
