@@ -199,6 +199,7 @@ L<Map::Metro::Plugin::Map::Budapest::Lines>.
 L<Map::Tube>,
 L<Map::Tube::Graph>,
 L<Map::Tube::GraphViz>,
+L<Map::Tube::Plugin::Graph>,
 L<Map::Tube::Text::Table>,
 L<Task::Map::Tube>.
 

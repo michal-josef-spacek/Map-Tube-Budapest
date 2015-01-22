@@ -3,6 +3,7 @@
    and Map::Metro::Plugin::Map::Budapest::Lines to SEE ALSO section in doc.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Nanjing to SEE ALSO section in doc.
+ - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Update copyright years to 2015.
 
 0.01 2014-12-30T16:14:42+01:00
