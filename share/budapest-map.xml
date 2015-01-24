@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tube name="Budapesti metró">
   <!-- https://hu.wikipedia.org/wiki/Budapesti_metró -->
+  <lines>
+    <line id="M1" name="Linia M1" color="yellow"/>
+    <line id="M2" name="Linia M2" color="red"/>
+    <line id="M3" name="Linia M3" color="blue"/>
+    <line id="M4" name="Linia M4" color="green"/>
+  </lines>
   <stations>
     <!-- Junctions. -->
     <station id="DEÁK_FERENC_TÉR" name="Deák Ferenc tér" line="Linia M1,Linia M2,Linia M3" link="M1-01,M1-03,M2-04,M2-06,M3-09,M3-11"/>
