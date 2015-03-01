@@ -8,6 +8,7 @@
  - Add Map::Tube::Singapore to SEE ALSO section in doc.
  - Add lines to XML document.
  - Update copyright years to 2015.
+ - Rewrite lines in XML map.
 
 0.01 2014-12-30T16:14:42+01:00
  - First version
