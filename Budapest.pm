@@ -174,7 +174,7 @@ For more information about Budapest Map, click L<here|https://en.wikipedia.org/w
  system "ls -l Budapest.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 150646 Dec 29 11:07 Budapest.png
+ # -rw-r--r-- 1 skim skim 164520 Mar  4 22:32 Budapest.png
 
 =begin html
 
