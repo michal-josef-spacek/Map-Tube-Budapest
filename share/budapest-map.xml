@@ -66,6 +66,6 @@
     <station id="M4-07" name="Kálvin tér" line="Linia M4" link="M3-12,M4-06,M4-08"/>
     <station id="M4-08" name="Rákóczi tér" line="Linia M4" link="M4-07,M4-09"/>
     <station id="M4-09" name="II. János Pál pápa tér" line="Linia M4" link="M4-08,M4-10"/>
-    <station id="M4-10" name="Keleti pályaudvar" line="Linia M4" link="M2-09,M4-09"/>
+    <station id="M4-10" name="Keleti pályaudvar" line="Linia M4" link="M2-08,M4-09"/>
   </stations>
 </tube>
