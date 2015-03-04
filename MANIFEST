@@ -26,6 +26,7 @@ t/Map-Tube-Budapest/00-use.t
 t/Map-Tube-Budapest/01-version.t
 t/Map-Tube-Budapest/02-pod_coverage.t
 t/Map-Tube-Budapest/03-pod.t
-t/Map-Tube-Budapest/04-get_shortest_route.t
-t/Map-Tube-Budapest/05-name.t
-t/Map-Tube-Budapest/06-xml.t
+t/Map-Tube-Budapest/04-map.t
+t/Map-Tube-Budapest/05-get_shortest_route.t
+t/Map-Tube-Budapest/06-name.t
+t/Map-Tube-Budapest/07-xml.t
