@@ -1,7 +1,7 @@
 0.02
  - Add <?xml> header to XML document.
- - Add Map::Metro::Plugin::Map::Budapest
-   and Map::Metro::Plugin::Map::Budapest::Lines to SEE ALSO section in doc.
+ - Add Map::Metro::Plugin::Map::Budapest and
+   Map::Metro::Plugin::Map::Budapest::Lines to SEE ALSO section in doc.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Nanjing to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
