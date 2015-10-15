@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 e407b94d399d60ed37bfa8ac14be6e81a0654b8a Budapest.pm
-SHA1 0799ff0683fb7df8c0f4061befe39d080e8add71 Changes
+SHA1 38e3483a93cd3523011ba9342ab083cf58a9bdab Budapest.pm
+SHA1 13f5493fcbfb946f31346f5ab47bdcefeb88df7c Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 cc4d8aa2b8022021e5390986539d0873bcd1a279 MANIFEST
-SHA1 2b174418a6d05a3d2784660d33ba9ace525a79e2 META.yml
-SHA1 02f0b53120167e0c9df717b413b652fa8e85923b Makefile.PL
-SHA1 4c94644d2c5afaa180f0a07ba74bfb0e2a793380 README
+SHA1 c2e9b096f7a9c1618ecec5c874a0ff7ba08e0294 META.yml
+SHA1 c82ca60c74f56ffc2aeebac7397971a5d9483cb9 Makefile.PL
+SHA1 3411d34022b105080998e6d3dea73ffea2b2265b README
 SHA1 7c4e5b6657a0008ac5bcce4b8156f47292f2365c examples/ex1.pl
 SHA1 03a3b518b9e66366a0444a8ec3b82ee75b318f71 examples/ex2.pl
 SHA1 25474b84ea57a9597f9117889e51443f1121ecf0 examples/ex3.pl
@@ -41,11 +41,11 @@ SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 008eda9e674b5802c27026e98157a634ffd56e43 share/budapest-map.xml
 SHA1 905447068279c43efe69fe6b0ba2d428691c7fe1 t/Map-Tube-Budapest/01-use.t
-SHA1 011169e917ae0f3e37dc185562aba51338b97d1d t/Map-Tube-Budapest/02-version.t
+SHA1 e04811d1fccaf3dcd605107aeaac6074adb4ebe1 t/Map-Tube-Budapest/02-version.t
 SHA1 09b9129c2b2f489cfe81d06d44782c640b9dc455 t/Map-Tube-Budapest/03-map.t
-SHA1 d267754be09da95a13cb8e9cefc9999fa16cd31a t/Map-Tube-Budapest/04-get_node_by_id.t
-SHA1 65617b8f145706c716fdcc0a732750998a8d75ae t/Map-Tube-Budapest/05-get_node_by_name.t
-SHA1 d25875bcdfb92a37ca6b0ffbacc31e891422003e t/Map-Tube-Budapest/06-get_shortest_route.t
+SHA1 1b63dd5a94afb5a53d94d0232d59e214aefec02d t/Map-Tube-Budapest/04-get_node_by_id.t
+SHA1 92e31e610671c6b66681bc518a13a0f19804b1d6 t/Map-Tube-Budapest/05-get_node_by_name.t
+SHA1 97045d83028b5edadf44bf952858d92297a61e6a t/Map-Tube-Budapest/06-get_shortest_route.t
 SHA1 b07d81c363798bb2d21e7022f6159927bd815ec4 t/Map-Tube-Budapest/07-name.t
 SHA1 d13d17595ee821444c6e96eabc124e9701fd94f2 t/Map-Tube-Budapest/08-xml.t
 SHA1 9d60035115c5f1b4f4a32c7ae58083c1cedd8099 xt/Map-Tube-Budapest/01-pod_coverage.t
@@ -53,11 +53,11 @@ SHA1 4201b71f20703842cff4a5e377b717a7d63619cd xt/Map-Tube-Budapest/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWEOI2AAoJEJe+XXKaIuTlmf8H/2dKkqi/q7ZS1JgfiVIVmcYe
-da5PhNYg/U5xsAToJgVvtKyWmwbjo3JILG0KipjQYBSHhmU6yBXGHJ0nUZORbAYO
-lHzzmwauBbWtw9L9xsHfc6iNtZLT78X2buXvE88rOI7d2yKeLqqeLixI743xsgoy
-TJvsZu9+m1Go5QfcDFl8NKeqqa11MwR48PVHHLD5Ek7M25Gxwnu+QH4P0Z0nfyT8
-A2eGPcXmB6KU3HB44+RbsCyL8EU4W1e4bK+K16L6o53kx+0+CTR8aNSWQ3L3hqQy
-Ep6IdPKTk9u42TfgbXCFnD9WsFTubQjKMsGj8u4uubp1Z3LJ5QW2vy+EmCZJA14=
-=aaog
+iQEcBAEBAgAGBQJWIBotAAoJEJe+XXKaIuTlviIH/0scV3IPbusUyPO1sjKTy6ev
+bOXrKV++rKVvUEmo0Vufqh3gEFrV+T57HMYKrr9GB+TfYoymwn6hM42bBx/9QNIy
+yqecXFKYFuXhor6QRHgjeybRqepPOiQ/VTPx0yDPWWaBgi+0+hblyZJ5Xu3vShPi
+eLDz6+HFl00a32fNonAJo3yXrrA8cE6zKJyKoYgmC0WldyJm8C5TyG1kvPVIaSy3
+4r9EnZY2PzclF80WkKsWIJCeO6RrEb/Nduwldgcx4ETgGn7o3h/aQZZg7ynEB/rY
+qqFBoq5cmECn8YK0Zw4DZIF3zZq0ji1toZ9saWzVTGHwm58T5ipkQFYnGTMUTZc=
+=YsAv
 -----END PGP SIGNATURE-----
