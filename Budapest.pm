@@ -221,6 +221,50 @@ For more information about Budapest Map, click L<here|https://en.wikipedia.org/w
  # Linia M3
  # Linia M4
 
+=head1 EXAMPLE5
+
+ # Pragmas.
+ use strict;
+ use warnings;
+
+ # Modules.
+ use Encode qw(encode_utf8);
+ use Map::Tube::Budapest;
+
+ # Arguments.
+ if (@ARGV < 1) {
+         print STDERR "Usage: $0 line\n";
+         exit 1;
+ }
+ my $line = $ARGV[0];
+
+ # Object.
+ my $obj = Map::Tube::Budapest->new;
+
+ # Get stations for line.
+ my $stations_ar = $obj->get_stations($line);
+
+ # Print out.
+ map { print encode_utf8($_->name)."\n"; } @{$stations_ar};
+
+ # Output:
+ # Usage: __PROG__ line
+
+ # Output with 'foo' argument.
+ # Map::Tube::get_stations(): ERROR: Invalid Line Name [foo]. (status: 105) file __PROG__ on line __LINE__
+
+ # Output with 'Linia M4' argument.
+ # Kelenföld vasútállomás
+ # Bikás park
+ # Újbuda-központ
+ # Móricz Zsigmond körtér
+ # Szent Gellért tér
+ # Fővám tér
+ # Kálvin tér
+ # Rákóczi tér
+ # II. János Pál pápa tér
+ # Keleti pályaudvar
+
 =head1 DEPENDENCIES
 
 L<File::Share>,
