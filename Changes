@@ -6,6 +6,7 @@
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.18 version.
  - Update author name.
+ - Update copyright years to 2017.
 
 0.04 2015-10-15T23:27:06+02:00
  - Update to Map::Tube 3.06.
