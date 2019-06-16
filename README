@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Budapest;
 
@@ -88,11 +86,9 @@ EXAMPLE1
      # Route: Fővám tér (Linia M4), Kálvin tér (Linia M3,Linia M4), Ferenciek tere (Linia M3), Deák Ferenc tér (Linia M1,Linia M2,Linia M3), Bajcsy-Zsilinszky út (Linia M1), Opera (Linia M1)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::Budapest;
 
      # Object.
@@ -108,11 +104,9 @@ EXAMPLE2
      # XML file: .*/budapest-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::Budapest;
@@ -137,11 +131,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 164520 Mar  4 22:32 Budapest.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Budapest;
 
@@ -161,11 +153,9 @@ EXAMPLE4
      # Linia M4
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Budapest;
 
