@@ -182,7 +182,7 @@ For more information about Budapest Map, click L<here|https://en.wikipedia.org/w
 =begin html
 
 <a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Budapest/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Budapest/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Budapest/master/images/ex3.png" alt="Budapest metro" width="300px" height="300px" />
 </a>
 
 =end html

@@ -1,5 +1,6 @@
 0.05
  - Add EXAMPLE5 section to doc.
+ - Fix bad alt in doc HTML output.
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Implement station order.
  - Improve description for get_lines() in doc.
