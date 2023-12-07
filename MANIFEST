@@ -5,7 +5,7 @@ examples/print_budapest_image.pl
 examples/print_budapest_line_stations.pl
 examples/print_budapest_lines.pl
 examples/print_budapest_route.pl
-images/ex3.png
+images/Budapest.png
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
