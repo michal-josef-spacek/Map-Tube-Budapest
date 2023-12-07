@@ -1,5 +1,6 @@
 0.06
  - Fix use lib '.' in Makefile.PL.
+ - Move bugtracker to github.
  - Update Module::Install to 1.21 version.
  - Update copyright years.
 
