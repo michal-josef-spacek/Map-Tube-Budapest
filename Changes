@@ -1,5 +1,6 @@
 0.06
  - Fix use lib '.' in Makefile.PL.
+ - Update Module::Install to 1.21 version.
 
 0.05 2020-01-18T11:36:15+01:00
  - Add EXAMPLE5 section to doc.
